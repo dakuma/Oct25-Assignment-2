@@ -7,3 +7,8 @@ This is our second assignment.
   - creating dev branches
   - issuing pull requests
   - and merging branches
+
+## Friendly reminder
+  - markdown is easy
+  - markdown is fun
+  - markdown is on sale
